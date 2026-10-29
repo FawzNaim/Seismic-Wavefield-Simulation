@@ -21,9 +21,6 @@ method attribution and the current license status.
 | biot_cno/ | Earlier three-output CNO workflow; not eight-state compatible |
 | tools/ | Source inventory and syntax check |
 
-The spectral-loss CNO, hard-initial-condition CNO and sponge-dataset experiments
-were removed at the maintainer's request. The DG numerical implementations and
-retained training scripts have not been refactored.
 
 ## DG quick start
 
