@@ -1,0 +1,382 @@
+[
+  {
+    "path": ".github/workflows/checks.yml",
+    "sha256": "607234db57629332d6f185add905ee9e40ec9643d72094806d018359a77bed20",
+    "source_path": ".github/workflows/checks.yml",
+    "packaged_original_sha256": "679570576f9eecd215944fa7a5993c455252a1434ba01cfc4de981c89cc11fb3"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "8690b6eec6889b3851df413415a8025245dfe2ecd9c954bdd0990fccccebc8a3",
+    "source_path": ".gitignore",
+    "packaged_original_sha256": "8690b6eec6889b3851df413415a8025245dfe2ecd9c954bdd0990fccccebc8a3"
+  },
+  {
+    "path": "CITATION.cff",
+    "sha256": "0be2d222690651094f71ccda7594b16837c6a4322f01747cfd0dca1544dc2169",
+    "source_path": "CITATION.cff",
+    "packaged_original_sha256": "0be2d222690651094f71ccda7594b16837c6a4322f01747cfd0dca1544dc2169"
+  },
+  {
+    "path": "LICENSE_STATUS.md",
+    "sha256": "12291cc22c7f3ba90765092796030a55f9af64f3c688e71b7477010122da140d",
+    "source_path": "LICENSE_STATUS.md",
+    "packaged_original_sha256": "12291cc22c7f3ba90765092796030a55f9af64f3c688e71b7477010122da140d"
+  },
+  {
+    "path": "README.md",
+    "sha256": "69547c5a80932154919a8e707cf1c366fc0f88f8df221840b6a20d1be5a9febd",
+    "source_path": "README.md",
+    "packaged_original_sha256": "875723610400b5c2f616f524e50891bf5c29d51ee05e089c420528131b900a84"
+  },
+  {
+    "path": "REFERENCES.md",
+    "sha256": "49883f9f1aad13e64558a4eb70d4e67f7dce6f6c0e3a0786c68a98a54de308a8",
+    "source_path": "REFERENCES.md",
+    "packaged_original_sha256": "49883f9f1aad13e64558a4eb70d4e67f7dce6f6c0e3a0786c68a98a54de308a8"
+  },
+  {
+    "path": "biot_cno/cno_architecture.py",
+    "sha256": "413dc9be932d257df2009adb5881acbd1ee2d410519af8e648aff809b79afb51",
+    "source_path": "biot_cno/cno_architecture.py",
+    "source_sha256": "413dc9be932d257df2009adb5881acbd1ee2d410519af8e648aff809b79afb51",
+    "packaged_original_sha256": "413dc9be932d257df2009adb5881acbd1ee2d410519af8e648aff809b79afb51"
+  },
+  {
+    "path": "biot_cno/train_shale_sandstone_cno.py",
+    "sha256": "06d1ee5480c57b1d092105fef49ef09d0634053f883307a6e8b81dd9e2c941dc",
+    "source_path": "biot_cno/train_shale_sandstone_cno.py",
+    "source_sha256": "06d1ee5480c57b1d092105fef49ef09d0634053f883307a6e8b81dd9e2c941dc",
+    "packaged_original_sha256": "06d1ee5480c57b1d092105fef49ef09d0634053f883307a6e8b81dd9e2c941dc"
+  },
+  {
+    "path": "biot_fno_supervised/README.md",
+    "sha256": "5774c3a90149356d65da872186ff7ccaf3c39c28d5bba58bda19269502b41869",
+    "source_path": "biot_fno_supervised/README.md",
+    "source_sha256": "fdb90401dbf5998eda7e23adbcc8b4fadd041e80e69bc8e06d98174923ba0f90",
+    "packaged_original_sha256": "5774c3a90149356d65da872186ff7ccaf3c39c28d5bba58bda19269502b41869"
+  },
+  {
+    "path": "biot_fno_supervised/biot_physics.py",
+    "sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "source_path": "biot_fno_supervised/biot_physics.py",
+    "source_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "packaged_original_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19"
+  },
+  {
+    "path": "biot_fno_supervised/check_fno.py",
+    "sha256": "728fced67744eebc788ac9759c9856118ba13e7774dad2532f2af3012e698727",
+    "source_path": "biot_fno_supervised/check_fno.py",
+    "source_sha256": "728fced67744eebc788ac9759c9856118ba13e7774dad2532f2af3012e698727",
+    "packaged_original_sha256": "728fced67744eebc788ac9759c9856118ba13e7774dad2532f2af3012e698727"
+  },
+  {
+    "path": "biot_fno_supervised/fno_model.py",
+    "sha256": "62e276b5085addbf36d30e1f5bb4fbb5ba14542232eb5a19de9516c7e5be4a20",
+    "source_path": "biot_fno_supervised/fno_model.py",
+    "source_sha256": "62e276b5085addbf36d30e1f5bb4fbb5ba14542232eb5a19de9516c7e5be4a20",
+    "packaged_original_sha256": "62e276b5085addbf36d30e1f5bb4fbb5ba14542232eb5a19de9516c7e5be4a20"
+  },
+  {
+    "path": "biot_fno_supervised/supervised_losses.py",
+    "sha256": "ef0935aef2078f5891d5c1d30c90fbd0d2456ce847c096b708b9137bf9829c14",
+    "source_path": "biot_fno_supervised/supervised_losses.py",
+    "source_sha256": "ef0935aef2078f5891d5c1d30c90fbd0d2456ce847c096b708b9137bf9829c14",
+    "packaged_original_sha256": "ef0935aef2078f5891d5c1d30c90fbd0d2456ce847c096b708b9137bf9829c14"
+  },
+  {
+    "path": "biot_fno_supervised/train_biot_fno.py",
+    "sha256": "4eb038f2b08bdf4c981f686e24f81d9d1b1ab6d0d9a613efcd623126c8e4f63b",
+    "source_path": "biot_fno_supervised/train_biot_fno.py",
+    "source_sha256": "4eb038f2b08bdf4c981f686e24f81d9d1b1ab6d0d9a613efcd623126c8e4f63b",
+    "packaged_original_sha256": "4eb038f2b08bdf4c981f686e24f81d9d1b1ab6d0d9a613efcd623126c8e4f63b"
+  },
+  {
+    "path": "biot_picno_training/README.md",
+    "sha256": "77ccbcdd606314fa931b1bcfc271a5ad5bd0c96f69526c1d6af7b226e94d1980",
+    "source_path": "biot_picno_training/README.md",
+    "source_sha256": "28a3a72eb8cf8ae33fbd9649fc4ef7f758b2b9a983dca35cb54caafd7aac751b",
+    "packaged_original_sha256": "25828031559f090e6449b976beb1496dd77b299319c33c23eb14114ce21ccb84"
+  },
+  {
+    "path": "biot_picno_training/biot_physics.py",
+    "sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "source_path": "biot_picno_training/biot_physics.py",
+    "source_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "packaged_original_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19"
+  },
+  {
+    "path": "biot_picno_training/cno_model.py",
+    "sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "source_path": "biot_picno_training/cno_model.py",
+    "source_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "packaged_original_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b"
+  },
+  {
+    "path": "biot_picno_training/train_biot_picno.py",
+    "sha256": "6d39b9f21b4bb6ae4dda5ea455a015bf04b99797f136f58745b8d75bbd0a7345",
+    "source_path": "biot_picno_training/train_biot_picno.py",
+    "source_sha256": "6d39b9f21b4bb6ae4dda5ea455a015bf04b99797f136f58745b8d75bbd0a7345",
+    "packaged_original_sha256": "6d39b9f21b4bb6ae4dda5ea455a015bf04b99797f136f58745b8d75bbd0a7345"
+  },
+  {
+    "path": "cno_residual_diagnostics/README.md",
+    "sha256": "84f98b4319bee719ec4cb700cd9b07f48784b5bc3c9214c9def0afbd5be931f9",
+    "source_path": "cno_residual_diagnostics/README.md",
+    "source_sha256": "a6cff44bdeb4fb87c91c294bdf952064178b72b3573597a59fd069180b830eb7",
+    "packaged_original_sha256": "84f98b4319bee719ec4cb700cd9b07f48784b5bc3c9214c9def0afbd5be931f9"
+  },
+  {
+    "path": "cno_residual_diagnostics/biot_physics.py",
+    "sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "source_path": "cno_residual_diagnostics/biot_physics.py",
+    "source_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "packaged_original_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19"
+  },
+  {
+    "path": "cno_residual_diagnostics/check_residuals.py",
+    "sha256": "655687ac9abbd94f120efeaecc991b27d88fd67dc3984fed035d2b92fa2f9c49",
+    "source_path": "cno_residual_diagnostics/check_residuals.py",
+    "source_sha256": "655687ac9abbd94f120efeaecc991b27d88fd67dc3984fed035d2b92fa2f9c49",
+    "packaged_original_sha256": "655687ac9abbd94f120efeaecc991b27d88fd67dc3984fed035d2b92fa2f9c49"
+  },
+  {
+    "path": "cno_residual_diagnostics/cno_model.py",
+    "sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "source_path": "cno_residual_diagnostics/cno_model.py",
+    "source_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "packaged_original_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b"
+  },
+  {
+    "path": "cno_residual_diagnostics/dataset_schema.py",
+    "sha256": "e771f646bc5c321e8d09f415351cb7df9dedbb59fae3dd85639ad568cdc0f933",
+    "source_path": "cno_residual_diagnostics/dataset_schema.py",
+    "source_sha256": "e771f646bc5c321e8d09f415351cb7df9dedbb59fae3dd85639ad568cdc0f933",
+    "packaged_original_sha256": "e771f646bc5c321e8d09f415351cb7df9dedbb59fae3dd85639ad568cdc0f933"
+  },
+  {
+    "path": "cno_residual_diagnostics/evaluate_cno_residuals.py",
+    "sha256": "e19fa42050e24019ac01a667d7b9d38a702c736e24bbab763ebcb3679eb1f49e",
+    "source_path": "cno_residual_diagnostics/evaluate_cno_residuals.py",
+    "source_sha256": "e19fa42050e24019ac01a667d7b9d38a702c736e24bbab763ebcb3679eb1f49e",
+    "packaged_original_sha256": "e19fa42050e24019ac01a667d7b9d38a702c736e24bbab763ebcb3679eb1f49e"
+  },
+  {
+    "path": "cno_residual_diagnostics/residual_core.py",
+    "sha256": "555b2f13a33339b0f9d688cb1224f0d28771eab4264e1e32f86ac5ab30ab34ac",
+    "source_path": "cno_residual_diagnostics/residual_core.py",
+    "source_sha256": "555b2f13a33339b0f9d688cb1224f0d28771eab4264e1e32f86ac5ab30ab34ac",
+    "packaged_original_sha256": "555b2f13a33339b0f9d688cb1224f0d28771eab4264e1e32f86ac5ab30ab34ac"
+  },
+  {
+    "path": "dg/LICENSE_STATUS.md",
+    "sha256": "12291cc22c7f3ba90765092796030a55f9af64f3c688e71b7477010122da140d"
+  },
+  {
+    "path": "dg/README.md",
+    "sha256": "4dd0ac61bdab2ca701cc6046b9045a20a3e8e246561ed73a8627b16d3b9affc3"
+  },
+  {
+    "path": "dg/faulted_three_layer/README.md",
+    "sha256": "c693c6d3498956e487c3a0c7fc2552ccd0101fdcd1b651a8ecaffe9019fea3c5"
+  },
+  {
+    "path": "dg/faulted_three_layer/aderdg_core.py",
+    "sha256": "ac0108c538fb554dfd4a752e2c4de645654251a9e18bf7a9d3be5bd0dffa2c32",
+    "source_path": "faulted_biot_dataset/aderdg_core.py",
+    "source_sha256": "ac0108c538fb554dfd4a752e2c4de645654251a9e18bf7a9d3be5bd0dffa2c32",
+    "packaged_original_sha256": "ac0108c538fb554dfd4a752e2c4de645654251a9e18bf7a9d3be5bd0dffa2c32"
+  },
+  {
+    "path": "dg/faulted_three_layer/check_faulted_model.py",
+    "sha256": "a58e47350899901deac5c0d36f718bca4236e3e77f98aced01f51b65390e8e67",
+    "source_path": "faulted_biot_dataset/check_faulted_model.py",
+    "source_sha256": "a58e47350899901deac5c0d36f718bca4236e3e77f98aced01f51b65390e8e67",
+    "packaged_original_sha256": "a58e47350899901deac5c0d36f718bca4236e3e77f98aced01f51b65390e8e67"
+  },
+  {
+    "path": "dg/faulted_three_layer/fault_geometry.py",
+    "sha256": "dfb33fa0018880a89f02415479109ea412b30beea2f1fa5d996d851b1861c65b",
+    "source_path": "faulted_biot_dataset/fault_geometry.py",
+    "source_sha256": "dfb33fa0018880a89f02415479109ea412b30beea2f1fa5d996d851b1861c65b",
+    "packaged_original_sha256": "dfb33fa0018880a89f02415479109ea412b30beea2f1fa5d996d851b1861c65b"
+  },
+  {
+    "path": "dg/faulted_three_layer/generate_faulted_biot_dataset.py",
+    "sha256": "bd1abc5ca1de55c7b0d8f28920a179111dccaab3a3031681fc193649460af24d",
+    "source_path": "faulted_biot_dataset/generate_faulted_biot_dataset.py",
+    "source_sha256": "bd1abc5ca1de55c7b0d8f28920a179111dccaab3a3031681fc193649460af24d",
+    "packaged_original_sha256": "bd1abc5ca1de55c7b0d8f28920a179111dccaab3a3031681fc193649460af24d"
+  },
+  {
+    "path": "dg/faulted_three_layer/geometry_mesh_preview.png",
+    "sha256": "5cc93821c2ba2b42a770763b5a4ea089ce4bbe464f9c4b9e392822b97e53597a",
+    "source_path": "faulted_biot_dataset/geometry_mesh_preview.png",
+    "source_sha256": "5cc93821c2ba2b42a770763b5a4ea089ce4bbe464f9c4b9e392822b97e53597a",
+    "packaged_original_sha256": "5cc93821c2ba2b42a770763b5a4ea089ce4bbe464f9c4b9e392822b97e53597a"
+  },
+  {
+    "path": "dg/faulted_three_layer/interface_flux.py",
+    "sha256": "304d6e20aade01313f3cf9aef7351aae3b0702cdc846e36f68f9267ecd9b5645",
+    "source_path": "faulted_biot_dataset/interface_flux.py",
+    "source_sha256": "304d6e20aade01313f3cf9aef7351aae3b0702cdc846e36f68f9267ecd9b5645",
+    "packaged_original_sha256": "304d6e20aade01313f3cf9aef7351aae3b0702cdc846e36f68f9267ecd9b5645"
+  },
+  {
+    "path": "dg/faulted_three_layer/materials.py",
+    "sha256": "8bdb22e9dbc2da036461aae3d46a609afa17424df3508cab796e2ce0048bd620",
+    "source_path": "faulted_biot_dataset/materials.py",
+    "source_sha256": "8bdb22e9dbc2da036461aae3d46a609afa17424df3508cab796e2ce0048bd620",
+    "packaged_original_sha256": "8bdb22e9dbc2da036461aae3d46a609afa17424df3508cab796e2ce0048bd620"
+  },
+  {
+    "path": "dg/requirements.txt",
+    "sha256": "623b2302f41d9206593a1b47e54807082c2df7ef55a0caa22dd097652b684ba7"
+  },
+  {
+    "path": "dg/two_layer/README.md",
+    "sha256": "819be5968addba5470639e2b5711b208c2f68bc7593b046fa30c2e4edcfff554"
+  },
+  {
+    "path": "dg/two_layer/generate_biot_picno_dataset_gpu.py",
+    "sha256": "15e3f528b33b024b54dac700ee9470bdce996aad4bf4b65c6f46ab7c2bb478e3",
+    "source_path": "biot_picno_dataset/generate_biot_picno_dataset_gpu.py",
+    "source_sha256": "15e3f528b33b024b54dac700ee9470bdce996aad4bf4b65c6f46ab7c2bb478e3",
+    "packaged_original_sha256": "15e3f528b33b024b54dac700ee9470bdce996aad4bf4b65c6f46ab7c2bb478e3"
+  },
+  {
+    "path": "dg/two_layer/two_layer_coarse_gpu_colab.py",
+    "sha256": "4cc368cc581e8b1bf24593c7bd6186f32616d0249adb4c2d52fd451dfc5014fa",
+    "source_path": "biot_picno_dataset/two_layer_coarse_gpu_colab.py",
+    "source_sha256": "4cc368cc581e8b1bf24593c7bd6186f32616d0249adb4c2d52fd451dfc5014fa",
+    "packaged_original_sha256": "4cc368cc581e8b1bf24593c7bd6186f32616d0249adb4c2d52fd451dfc5014fa"
+  },
+  {
+    "path": "docs/GITHUB_SETUP.md",
+    "sha256": "c0125cfff5a35c30e93688117a6e27167615cac2be8f765c8c0108024e7ccd3a",
+    "source_path": "docs/GITHUB_SETUP.md",
+    "packaged_original_sha256": "cc5edae65e8b8a2e24b8beabf6ff496ac651fd8576249039023261c4f09b5278"
+  },
+  {
+    "path": "docs/METHOD_AND_PROVENANCE.md",
+    "sha256": "981f767f7b681cb90c2358d62ed418b9716551dad0c403f25c2e2457869544a4",
+    "source_path": "docs/METHOD_AND_PROVENANCE.md",
+    "packaged_original_sha256": "6974c2f772eabe50aa07ba64140980a62986d855a33afbba9846cb48bd89513b"
+  },
+  {
+    "path": "docs/METHOD_CROSSWALK.md",
+    "sha256": "2b95411ba5f6c4c2924971216824b92794b103370207824c0014cafcd1ea45e9",
+    "source_path": "docs/METHOD_CROSSWALK.md",
+    "packaged_original_sha256": "56317c81615a60ef8db0850fc7b9c8890964c3fb56109f566f190302f11c1b69"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY.md",
+    "sha256": "f6f0cb5927d5e14eaa326027504fa0e4ce65d4ae04aed63bc79b3c1d689ce0dc",
+    "source_path": "docs/REPRODUCIBILITY.md",
+    "packaged_original_sha256": "f6f0cb5927d5e14eaa326027504fa0e4ce65d4ae04aed63bc79b3c1d689ce0dc"
+  },
+  {
+    "path": "docs/REVIEW_REPORT.md",
+    "sha256": "11d163df84f89fcfc583af6f54c5e2270466da64380e3e5d8ad870a3b7235350",
+    "source_path": "docs/REVIEW_REPORT.md",
+    "packaged_original_sha256": "b1c1f2ecc2556e141064e44befed8615c53e977c02958667817c3d431be60b18"
+  },
+  {
+    "path": "docs/VALIDATION.md",
+    "sha256": "d148a22143807861d523761fb20d3489b3e0d6dc540a5831e47c47f9fc67005f",
+    "source_path": "docs/VALIDATION.md",
+    "packaged_original_sha256": "c382376bd26d75bc2869b1a711328eb8234cf0ca1f80a3995f90f7567410bf42"
+  },
+  {
+    "path": "docs/WORKFLOWS.md",
+    "sha256": "c603fc05dae2d689c23db80b50beba422bda5a1f49a4226b1ab06b13d613a9c2",
+    "source_path": "docs/WORKFLOWS.md",
+    "packaged_original_sha256": "cd18e1c303035546afaef7696860cf947a56feb366a67bd087409d660fc249a7"
+  },
+  {
+    "path": "faulted_cno_training/README.md",
+    "sha256": "d937fbedea84d5ffab43417b981343280fc7358c9d79fd8633e1cd080e527188"
+  },
+  {
+    "path": "faulted_cno_training/biot_physics.py",
+    "sha256": "76b5f564024a72134a69acd0f9621ad4730cd1bc37e24fcbcc5e9db854419166",
+    "source_path": "faulted_biot_dataset/biot_physics.py",
+    "source_sha256": "76b5f564024a72134a69acd0f9621ad4730cd1bc37e24fcbcc5e9db854419166",
+    "packaged_original_sha256": "76b5f564024a72134a69acd0f9621ad4730cd1bc37e24fcbcc5e9db854419166"
+  },
+  {
+    "path": "faulted_cno_training/cno_model.py",
+    "sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "source_path": "faulted_biot_dataset/cno_model.py",
+    "source_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "packaged_original_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b"
+  },
+  {
+    "path": "faulted_cno_training/train_faulted_cno.py",
+    "sha256": "0c454ecfacf41bf14c8a38f776a898be3b2952b25e358fcc425995a325241a0e",
+    "source_path": "faulted_biot_dataset/train_faulted_cno.py",
+    "source_sha256": "0c454ecfacf41bf14c8a38f776a898be3b2952b25e358fcc425995a325241a0e",
+    "packaged_original_sha256": "0c454ecfacf41bf14c8a38f776a898be3b2952b25e358fcc425995a325241a0e"
+  },
+  {
+    "path": "picno_residual_training/README.md",
+    "sha256": "03dd5a9f775d975c6590792708f4f019c568700a43a2f30091ec5bc4250efa15",
+    "source_path": "picno_residual_training/README.md",
+    "source_sha256": "74e3c0b8cb79b49d7c28ab50c328cd64dd8d664d7cd666fa0f4fb6059f93f9e5",
+    "packaged_original_sha256": "03dd5a9f775d975c6590792708f4f019c568700a43a2f30091ec5bc4250efa15"
+  },
+  {
+    "path": "picno_residual_training/biot_physics.py",
+    "sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "source_path": "picno_residual_training/biot_physics.py",
+    "source_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19",
+    "packaged_original_sha256": "08c5b6fd8aff15a455ddc5dfc27cfe8cc1ef45ec66bd0e65301e48ea61adfc19"
+  },
+  {
+    "path": "picno_residual_training/check_residual_training.py",
+    "sha256": "94e43192e3a6a1f64ace9936fcb11377e21b15ebf9e1f507c23796ecc05ae255",
+    "source_path": "picno_residual_training/check_residual_training.py",
+    "source_sha256": "94e43192e3a6a1f64ace9936fcb11377e21b15ebf9e1f507c23796ecc05ae255",
+    "packaged_original_sha256": "94e43192e3a6a1f64ace9936fcb11377e21b15ebf9e1f507c23796ecc05ae255"
+  },
+  {
+    "path": "picno_residual_training/cno_model.py",
+    "sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "source_path": "picno_residual_training/cno_model.py",
+    "source_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b",
+    "packaged_original_sha256": "bdd69ab77817632d0aca5c94f0d5178556c7a4525d59ece63ae13a6908fb654b"
+  },
+  {
+    "path": "picno_residual_training/history_support.py",
+    "sha256": "7cb75a036ebddf2c1a6953388b413bff5adf7317900a229f2ee2d2095e7047e1",
+    "source_path": "picno_residual_training/history_support.py",
+    "source_sha256": "7cb75a036ebddf2c1a6953388b413bff5adf7317900a229f2ee2d2095e7047e1",
+    "packaged_original_sha256": "7cb75a036ebddf2c1a6953388b413bff5adf7317900a229f2ee2d2095e7047e1"
+  },
+  {
+    "path": "picno_residual_training/plot_residual_wavefields.py",
+    "sha256": "bf82e285b241b59e39559afe4556eb9e6593ea9a0ef03769e3177e51e2d58bb2",
+    "source_path": "picno_residual_training/plot_residual_wavefields.py",
+    "source_sha256": "bf82e285b241b59e39559afe4556eb9e6593ea9a0ef03769e3177e51e2d58bb2",
+    "packaged_original_sha256": "bf82e285b241b59e39559afe4556eb9e6593ea9a0ef03769e3177e51e2d58bb2"
+  },
+  {
+    "path": "picno_residual_training/train_residual_picno.py",
+    "sha256": "d47fc3cf3c8f9a97904f46b9de78a069e3c5e781a5ac0f7308820362c504c708",
+    "source_path": "picno_residual_training/train_residual_picno.py",
+    "source_sha256": "d47fc3cf3c8f9a97904f46b9de78a069e3c5e781a5ac0f7308820362c504c708",
+    "packaged_original_sha256": "d47fc3cf3c8f9a97904f46b9de78a069e3c5e781a5ac0f7308820362c504c708"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "cd45465d26fb26f955b816ca066378c0a7dae081136e258ca16914801bb43e76",
+    "source_path": "requirements.txt",
+    "packaged_original_sha256": "cd45465d26fb26f955b816ca066378c0a7dae081136e258ca16914801bb43e76"
+  },
+  {
+    "path": "tools/check_source_snapshot.py",
+    "sha256": "abd6f2ba25f210e9821f87ff4f353a4d5d2c91b3f046cbfe81c124b2fafab6f4",
+    "source_path": "tools/check_source_snapshot.py",
+    "packaged_original_sha256": "389b6715b34884b36482983792dc9191cc7bf0a5442e304bbd9fb0feffe6127f"
+  }
+]

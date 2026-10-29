@@ -1,0 +1,7 @@
+# Install PyTorch separately, choosing CPU or CUDA for your hardware.
+# torch is required for DG tensor calculations, not for neural-network training here.
+numpy
+scipy
+matplotlib
+h5py
+triangle

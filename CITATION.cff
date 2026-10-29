@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, cite this software snapshot and the scientific references listed in REFERENCES.md."
+title: "Biot ADER-DG and Neural Operators: Research Implementation"
+type: software
+authors:
+  - family-names: Naim
+    given-names: Fawz
+version: 0.1.0-preparation
+abstract: "Research implementations of Biot ADER-DG reference simulations, synthetic dataset generation, CNO/FNO training, and discrete physics-residual diagnostics."
+
+# Preparation version only; add repository-code and date-released after publication.

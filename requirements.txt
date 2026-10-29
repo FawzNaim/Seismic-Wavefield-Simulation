@@ -1,0 +1,6 @@
+# Install the appropriate CUDA or CPU PyTorch build separately.
+numpy
+scipy
+matplotlib
+h5py
+triangle
